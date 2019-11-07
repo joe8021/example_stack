@@ -1,1 +1,1 @@
-# example_stack
+# example_full_stack
